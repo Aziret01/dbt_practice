@@ -1,4 +1,4 @@
-Welcome to your new dbt practice course!
+Welcome to your new dbt practice course !
 
 ### Using the starter project
 
